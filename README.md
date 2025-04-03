@@ -17,26 +17,26 @@ Develop a model to accurately predict loan defaults, enabling the lending compan
 
 # Motivation
 
-Reduced Financial Risk: Minimizes losses by identifying potentially defaulting applicants.
+**Reduced Financial Risk:** Minimizes losses by identifying potentially defaulting applicants.
 
-Improved Loan Approval Process: Ensures that capable applicants are not rejected due to insufficient credit history.
+**Improved Loan Approval Process:** Ensures that capable applicants are not rejected due to insufficient credit history.
 
-Strategic Lending Actions: Supports informed actions such as denying loans, reducing loan amounts, or lending at higher interest rates to risky applicants.
+**Strategic Lending Actions:** Supports informed actions such as denying loans, reducing loan amounts, or lending at higher interest rates to risky applicants.
 
-Enhanced Pattern Identification: Uses EDA to analyze patterns that indicate difficulty in paying installments.
+**Enhanced Pattern Identification:** Uses EDA to analyze patterns that indicate difficulty in paying installments.
 
-Data-Driven Decision Making: Provides a systematic approach to loan assessment based on data analysis.
+**Data-Driven Decision Making:** Provides a systematic approach to loan assessment based on data analysis.
 
 # Key Points
 
-Data Collection and Preprocessing: Load and merge loan application data from application_data.csv and previous_application.csv, handling missing values and outliers.
+**Data Collection and Preprocessing:** Load and merge loan application data from application_data.csv and previous_application.csv, handling missing values and outliers.
 
-Exploratory Data Analysis (EDA): Conduct extensive EDA to understand patterns, correlations, and key risk indicators using visualizations.
+**Exploratory Data Analysis (EDA):** Conduct extensive EDA to understand patterns, correlations, and key risk indicators using visualizations.
 
-Feature Engineering: Create relevant features by extracting and transforming data from the provided datasets.
+**Feature Engineering:** Create relevant features by extracting and transforming data from the provided datasets.
 
-Model Selection and Training: Choose appropriate machine learning models and train them on the preprocessed data.
+**Model Selection and Training:** Choose appropriate machine learning models and train them on the preprocessed data.
 
-Hyperparameter Tuning: Optimize model performance using hyperparameter tuning techniques to achieve the best possible predictive accuracy.
+**Hyperparameter Tuning:** Optimize model performance using hyperparameter tuning techniques to achieve the best possible predictive accuracy.
 
-Model Evaluation: Use metrics such as precision, recall, F1-score, and AUC-ROC to evaluate the model’s performance in predicting loan defaults.
+**Model Evaluation:** Use metrics such as precision, recall, F1-score, and AUC-ROC to evaluate the model’s performance in predicting loan defaults.
